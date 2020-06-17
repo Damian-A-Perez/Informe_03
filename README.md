@@ -56,9 +56,9 @@ Mida cada uno de los voltajes de nodo y anotelos a continuacion
 
 | NODO   | RESULTADOS ANALITICOS | RESULTADOS EXPERIMENTALES | RESULTADOS SIMULADOS |
 |  :---:   |  :---:                |            :---:          |       :---:          |
-|    A   | 2.820[V]                |-                   | 2.820[V]           |
-|    B    | 4.802[V]                |-                 |4.802[V]             |
-|    C    | 0[V]                |-               |0[V]           |
+|    A   | 2.820[V]                | 2.82[V]                    | 2.820[V]           |
+|    B    | 4.802[V]                | 4.80[V]                 |4.802[V]             |
+|    C    | 0[V]                | 0[V]               |0[V]           |
 
 ![Circuito implementado](https://github.com/Damian-A-Perez/Informe_03/blob/master/Img/Simulador3.png)
 
