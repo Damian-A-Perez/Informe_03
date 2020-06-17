@@ -60,7 +60,6 @@ Mida cada uno de los voltajes de nodo y anotelos a continuacion
 |    B    | 4.802[V]                | 4.80[V]                 |4.802[V]             |
 |    C    | 0[V]                | 0[V]               |0[V]           |
 
-Gracias a la ley de corrriente de Kirchhoff, el voltaje de un nodo se encuentra definido por las corrientes que pasan por este.
 
 ![Circuito implementado](https://github.com/Damian-A-Perez/Informe_03/blob/master/Img/Simulador3.png)
 
@@ -71,6 +70,10 @@ Gracias a la ley de corrriente de Kirchhoff, el voltaje de un nodo se encuentra 
 Para implementar correctamente un circuito dentro del simulado, en primera instancia debemos encontrar y seleccionar los elementos a utilizar en el circuito completo, colocar una fuente de poder en cada extremo del circuito, asegurandonos de que la conexion vaya por toda la placa y poder usar mas espacio para conectar elementos, asegurarse de que las resistencias sean del valor adecuado y estan conectados concorde al circuito solicitado, teniendo en consideracion que dentro de un protoboard los nodos se representan de manera vertical asegurandonos espacios para conectar adecuadamente un punto de union.
 El circuito requiere dos fuentes de voltaje, una de 12 v, la cual administrara la corriente de entrada hacia la primera resistencia, la cual tiene un valor de 1.8kohm, la otra fuente de voltaje es el punto de llegada de la resitencia de 1.5Kohm la cual cierra el circuito el cual fue previamente simulado con cuidado teniendo en consideracion la conexion de cada uno de los elementos del mismos para un correcto funcionamiento. 
 
+7° concluciones 
+Así como el método de mallas nos permite idénticar primordial mente  las corrientes el análisis nodal nos ayuda a identificar voltajes
+
+Gracias a la ley de corrriente de Kirchhoff, el voltaje de un nodo se encuentra definido por las corrientes que pasan por este.
 
 Cronograma:
 ![cronograma](https://github.com/Damian-A-Perez/Informe_03/blob/master/Img/L3I1.png)
