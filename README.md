@@ -33,4 +33,11 @@ Nodo.-
    
 ![Ejemplo nodo](https://github.com/Damian-A-Perez/Informe_03/blob/master/Img/Nodo.jpg)
 
+Metodo de tensiones nodales.-
+En circuitos electricos, el analisis de nodos se efectua mediante el metodo de tensiones nodales, el cual consiste en el uso de la ley de kirchhoff de corrientes para poder determinar el valor de los voltajes de uno o mas nodos dentro de un solo circuito cerrado
+Para este analicis se establece una ecuacion para cada nodo en cuestion, tomando en cuenta como unica condicion que al usar el metodo de la ley de kirchhoff de corrientes (LCK) la suma de todas las corrientes dentro de aquel nodo debe ser igual a cero. Estas corrientes deben estar escritas en funcion de la tension, debido que es nuestra incognita.
+Esta analisis solo es posible cuando todos los nodos disponene de conductancia, en caso de que los elementos del circuito no dispongan de conductancia, se usaria una extension mas compleja del analisis de nodos, conocida como Analisis de nodos modificado.
+
+
+
   
