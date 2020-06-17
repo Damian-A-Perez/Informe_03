@@ -60,7 +60,7 @@ Mida cada uno de los voltajes de nodo y anotelos a continuacion
 |    B    | 4.802[V]                | 4.80[V]                 |4.802[V]             |
 |    C    | 0[V]                | 0[V]               |0[V]           |
 
-Gracias a las leyes de corrriente de Kirchhoff, el voltaje de un nodo se encuentra definido por las corrientes que pasan por este
+Gracias a la ley de corrriente de Kirchhoff, el voltaje de un nodo se encuentra definido por las corrientes que pasan por este.
 
 ![Circuito implementado](https://github.com/Damian-A-Perez/Informe_03/blob/master/Img/Simulador3.png)
 
