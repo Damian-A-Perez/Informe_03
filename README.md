@@ -60,6 +60,7 @@ Mida cada uno de los voltajes de nodo y anotelos a continuacion
 |    B    | 4.802[V]                | 4.80[V]                 |4.802[V]             |
 |    C    | 0[V]                | 0[V]               |0[V]           |
 
+Gracias a la ley de corrriente de Kirchhoff, el voltaje de un nodo se encuentra definido por las corrientes que pasan por este.
 
 ![Circuito implementado](https://github.com/Damian-A-Perez/Informe_03/blob/master/Img/Simulador3.png)
 
@@ -70,12 +71,20 @@ Mida cada uno de los voltajes de nodo y anotelos a continuacion
 Para implementar correctamente un circuito dentro del simulado, en primera instancia debemos encontrar y seleccionar los elementos a utilizar en el circuito completo, colocar una fuente de poder en cada extremo del circuito, asegurandonos de que la conexion vaya por toda la placa y poder usar mas espacio para conectar elementos, asegurarse de que las resistencias sean del valor adecuado y estan conectados concorde al circuito solicitado, teniendo en consideracion que dentro de un protoboard los nodos se representan de manera vertical asegurandonos espacios para conectar adecuadamente un punto de union.
 El circuito requiere dos fuentes de voltaje, una de 12 v, la cual administrara la corriente de entrada hacia la primera resistencia, la cual tiene un valor de 1.8kohm, la otra fuente de voltaje es el punto de llegada de la resitencia de 1.5Kohm la cual cierra el circuito el cual fue previamente simulado con cuidado teniendo en consideracion la conexion de cada uno de los elementos del mismos para un correcto funcionamiento. 
 
-7° concluciones
+7° Conclusiones
 
-Así como el método de mallas nos permite idénticar primordial mente  las corrientes el análisis nodal nos ayuda a identificar voltajes
+El error encontrado es igual a cero, obtenido gracias a que se tomo de manera aneducada los nodos precisos a calcular en el circuito
 
-Gracias a la ley de corrriente de Kirchhoff, el voltaje de un nodo se encuentra definido por las corrientes que pasan por este.
+Asi como el metodo de mmallas nos permite identificar primordialmente las corrientes, el analisis de nodos nos permite encontrar en primera instancia los valores de los voltajes en un nodo
 
-Cronograma:
+Un mismo nodo, se determinada cuando dos elementos o mas se conectan a un mismo cable, para el cual se representa de manera mas extenza en el circuito dibujado, pero en si es un solo punto de conexion
+
+8° Recomendaciones
+
+Identificar cuales nodos son propicios para encontrar una ecuacion
+
+Asegurarse de colocar correctamente la direccion de las corrientes en cada nodo, para poder determinar si el valor del voltaje dentro de la ecuacion sera positivo o negativo
+
+9 Cronograma:
 ![cronograma](https://github.com/Damian-A-Perez/Informe_03/blob/master/Img/L3I1.png)
   
