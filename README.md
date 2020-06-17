@@ -38,6 +38,10 @@ En circuitos electricos, el analisis de nodos se efectua mediante el metodo de t
 Para este analicis se establece una ecuacion para cada nodo en cuestion, tomando en cuenta como unica condicion que al usar el metodo de la ley de kirchhoff de corrientes (LCK) la suma de todas las corrientes dentro de aquel nodo debe ser igual a cero. Estas corrientes deben estar escritas en funcion de la tension, debido que es nuestra incognita.
 Esta analisis solo es posible cuando todos los nodos disponene de conductancia, en caso de que los elementos del circuito no dispongan de conductancia, se usaria una extension mas compleja del analisis de nodos, conocida como Analisis de nodos modificado.
 
+![Corrientes de un nodo](https://github.com/Damian-A-Perez/Informe_03/blob/master/Img/Corrientes%20de%20un%20nodo.png)
+
+Usando este metodo, obtendremos un sistema de ecuaciones a establecer el cual puede ser resulto analiticamente mediante algebra lineal. Para que dicho sistema de ecuaciones sea consistente en sus totalidad, debe existir una ecuacion por cada nodo del circuito, tomando en cuenta la definicion de nodo, en tal caso obtendremos un numero de ecuaciones equivalente al numero de incognitas encontradas, que en este caso sera el numero de voltajes de nodo en todo el circuito.
+
 
 
   
