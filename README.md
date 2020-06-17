@@ -52,13 +52,17 @@ Usando este metodo, obtendremos un sistema de ecuaciones a establecer el cual pu
 
 Implemente el circuito que se presenta en la figura
 
-![Circuito implementado](https://github.com/Damian-A-Perez/Informe_03/blob/master/Img/Simulador3.png)
+Mida cada uno de los voltajes de nodo y anotelos a continuacion
 
 | NODO   | RESULTADOS ANALITICOS | RESULTADOS EXPERIMENTALES | RESULTADOS SIMULADOS |
 |  :---:   |  :---:                |            :---:          |       :---:          |
 |    A   | 2.820[V]                |-                   | 2.820[V]           |
 |    B    | 4.802[V]                |-                 |4.802[V]             |
 |    C    | 0[V]                |-               |0[V]           |
+
+![Circuito implementado](https://github.com/Damian-A-Perez/Informe_03/blob/master/Img/Simulador3.png)
+
+
 
 6° Explicacion del codigo fuente
 
