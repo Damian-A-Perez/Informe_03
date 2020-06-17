@@ -52,6 +52,12 @@ Usando este metodo, obtendremos un sistema de ecuaciones a establecer el cual pu
 
 Implemente el circuito que se presenta en la figura
 
+![Circuito implementado](https://github.com/Damian-A-Perez/Informe_03/blob/master/Img/Simulador3.png)
+
+6° Explicacion del codigo fuente
+
+Para implementar correctamente un circuito dentro del simulado, en primera instancia debemos encontrar y seleccionar los elementos a utilizar en el circuito completo, colocar una fuente de poder en cada extremo del circuito, asegurandonos de que la conexion vaya por toda la placa y poder usar mas espacio para conectar elementos, asegurarse de que las resistencias sean del valor adecuado y estan conectados concorde al circuito solicitado, teniendo en consideracion que dentro de un protoboard los nodos se representan de manera vertical asegurandonos espacios para conectar adecuadamente un punto de union.
+El circuito requiere dos fuentes de voltaje, una de 12 v, la cual administrara la corriente de entrada hacia la primera resistencia, la cual tiene un valor de 1.8kohm, la otra fuente de voltaje es el punto de llegada de la resitencia de 1.5Kohm la cual cierra el circuito el cual fue previamente simulado con cuidado teniendo en consideracion la conexion de cada uno de los elementos del mismos para un correcto funcionamiento. 
 
 
 
