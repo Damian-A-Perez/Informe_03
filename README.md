@@ -60,5 +60,6 @@ Para implementar correctamente un circuito dentro del simulado, en primera insta
 El circuito requiere dos fuentes de voltaje, una de 12 v, la cual administrara la corriente de entrada hacia la primera resistencia, la cual tiene un valor de 1.8kohm, la otra fuente de voltaje es el punto de llegada de la resitencia de 1.5Kohm la cual cierra el circuito el cual fue previamente simulado con cuidado teniendo en consideracion la conexion de cada uno de los elementos del mismos para un correcto funcionamiento. 
 
 
-
+Cronograma:
+![cronograma](https://github.com/Damian-A-Perez/Informe_03/blob/master/Img/L3I1.png)
   
