@@ -48,6 +48,7 @@ Usando este metodo, obtendremos un sistema de ecuaciones a establecer el cual pu
 
 5° Procedimiento 
 
-![circuito para analisis de nodos](
+![circuito para analisis de nodos](https://github.com/Damian-A-Perez/Informe_03/blob/master/Img/Circuito%20para%20analisis%20de%20nodos.png)
+
 
   
