@@ -44,6 +44,10 @@ Usando este metodo, obtendremos un sistema de ecuaciones a establecer el cual pu
 
 4° Material Y Equipo 
 
-![Material y equipo](
+![Material y equipo](https://github.com/Damian-A-Perez/Informe_03/blob/master/Img/Material%20y%20equipo%20(2).png)
+
+5° Procedimiento 
+
+![circuito para analisis de nodos](
 
   
