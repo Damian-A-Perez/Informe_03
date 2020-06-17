@@ -54,6 +54,12 @@ Implemente el circuito que se presenta en la figura
 
 ![Circuito implementado](https://github.com/Damian-A-Perez/Informe_03/blob/master/Img/Simulador3.png)
 
+| NODO   | RESULTADOS ANALITICOS | RESULTADOS EXPERIMENTALES | RESULTADOS SIMULADOS |
+|  :---:   |  :---:                |            :---:          |       :---:          |
+|    A   | 2.820[V]                |-                   | 2.820[V]           |
+|    B    | 4.802[V]                |-                 |4.802[V]             |
+|    C    | 0[V]                |-               |0[V]           |
+
 6° Explicacion del codigo fuente
 
 Para implementar correctamente un circuito dentro del simulado, en primera instancia debemos encontrar y seleccionar los elementos a utilizar en el circuito completo, colocar una fuente de poder en cada extremo del circuito, asegurandonos de que la conexion vaya por toda la placa y poder usar mas espacio para conectar elementos, asegurarse de que las resistencias sean del valor adecuado y estan conectados concorde al circuito solicitado, teniendo en consideracion que dentro de un protoboard los nodos se representan de manera vertical asegurandonos espacios para conectar adecuadamente un punto de union.
