@@ -42,6 +42,8 @@ Esta analisis solo es posible cuando todos los nodos disponene de conductancia, 
 
 Usando este metodo, obtendremos un sistema de ecuaciones a establecer el cual puede ser resulto analiticamente mediante algebra lineal. Para que dicho sistema de ecuaciones sea consistente en sus totalidad, debe existir una ecuacion por cada nodo del circuito, tomando en cuenta la definicion de nodo, en tal caso obtendremos un numero de ecuaciones equivalente al numero de incognitas encontradas, que en este caso sera el numero de voltajes de nodo en todo el circuito.
 
+4° Material Y Equipo 
 
+![Material y equipo](
 
   
